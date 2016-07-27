@@ -3,8 +3,7 @@
 package main
 
 import (
-	"evilproxy/config"
-	"evilproxy"
+	"evilproxy/core"
 	"fmt"
 )
 
